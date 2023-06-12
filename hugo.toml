@@ -2,7 +2,7 @@ baseurl = "https://thelastreformation.app/"
 title = "toolbox"
 theme = "hugo-theme-console"
 languageCode = "en-us"
-disqusShortname = 'robbert_dam'
+disqusShortname = 'toolbox-4'
 
 
 [params]
