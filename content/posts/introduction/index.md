@@ -3,9 +3,7 @@ title = "Introduction"
 date = "2023-06-05"
 +++
 
-Hello everyone! For a while, I've been entertaining the idea of creating an app for The Last Reformation (TLR). However, it didn't become concrete until I received a message from a friend (Asia) who also does a lot of practical work for this movement. She mentioned that she was in the process of developing an app. When it turned out that she was also harboring similar ideas, I thought: this is from God.
-
-From that moment, we decided to get serious about it!
+Hello everyone! For a while, I've been entertaining the idea of creating an app for The Last Reformation (TLR). At some point I was praying and thought: I need to start this (and also finish it!). And then a short time later I received a message from a friend (Asia) and she said she felt it was time to develop an app for TLR and her ideas were very similar. What a confirmation!
 
 <!--more-->
 
